@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@500;700&display=swap');
+
+
+header{
+    background-image: url("./images/Rectangle\ 34.png");
+    height: 48vh;
+    background-size: cover;
+}
+.nav-link:hover{
+    color: blue !important;
+}
+.header-content p{
+    margin-top: 1rem;
+    padding: 20px;
+    background-color: hsla(0, 0%, 0%, 0.425);
+}
+.grid-container{
+    max-width: 900px;
+}
+.jj{
+    width: 900px;
+}
+.old{
+    width: 900px;
+}
+.ema{
+    width: 900px;
+}
+.little{
+    width: 900px;
+}
+.diverse{
+    align-items: center;
+    justify-content: center;
+    font-family:  'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+/* .tng{
+width: 931px;
+left: 255px;
+top: 3043px;
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+} */
+.our{
+    font-family: 'Antonio';
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41px;
+    color: #000000;
+}
+.grid-img{
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+color: #000000;
+text-align: center;
+}
+.per{
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+}
+.btns{
+align-items: center;
+justify-content: center;
+align-items: center;
+padding: 8px 30px;
+gap: 10px;
+width: 120px;
+height: 40px;
+left: 255px;
+top: 2857px;
+color: #ffffff;
+background: #000000;
+}
+.btns:hover{
+    background-color: rgba(0, 0, 0, 0.744)
+}
+.ask{
+/* width: 343px; */
+left: 255px;
+top: 2977px;
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+/* font-size: 32px; */
+line-height: 41px;
+color: #000000;
+}
+.res{
+width: 931px;
+left: 255px;
+top: 3043px;
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+}
+.law{
+width: 546px;
+left: 255px;
+top: 3612px;
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.605);
+}
+.footer2{
+    padding: 5%;
+    width: 100%;
+    background-color: black;
+}
+.foot2{
+    width: 50%;
+}
+a{
+    text-decoration: none !important;
+}
